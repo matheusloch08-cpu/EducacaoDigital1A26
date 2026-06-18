@@ -12,14 +12,18 @@ header {
                 color: #183C63;
                 display: flex;
             }
-
+article {
+display: flex;
+}
             img {
                 width: 80px;
                 height: 80px;
             }
-            main {
-display: flex;
+        
+img {
+width: 80px;
+height: 80px;
 }
-article {
-display: flex;
+.artigo-autor {
+font-weight: bold;
 }
